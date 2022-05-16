@@ -1,0 +1,10 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+h1 {
+    color: hsl(0, 0%, 100%);
+}
+
+.card {
+    background-color:  hsl(216, 50%, 16%);
+}
